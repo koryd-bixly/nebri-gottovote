@@ -1,0 +1,10 @@
+gottovote.cc
+
+requirements:
+* three dropdowns to display voting registration centers
+* sms registration confirmation
+* sms peace messages
+* connect to a database for registration centers and election results.
+* election result map (leaflet)
+* serve html and javascript
+* generalization ( any reigon can clone and use this site)
